@@ -84,10 +84,8 @@ for university tuck shop
         </div>
    </footer>
    <footer class="footer2"><p>© Copyright 2022-2023 www tuckshop.com. All rights reserved. Developed by Shrey Mishra.</p></footer>
-</body>
-</html>
-
-*{
+    <style>
+        *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -257,3 +255,6 @@ font-size: 60px;
 .srch:focus{
    outline: none;
 }
+        <style/>
+</body>
+</html>
