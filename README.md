@@ -255,6 +255,6 @@ font-size: 60px;
 .srch:focus{
    outline: none;
 }
-        <style/>
+        </style>
 </body>
 </html>
